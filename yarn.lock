@@ -4110,9 +4110,9 @@ react-is@^16.4.1:
   version "16.4.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.4.1.tgz#d624c4650d2c65dbd52c72622bbf389435d9776e"
 
-react-native@0.56.0-rc.4:
-  version "0.56.0-rc.4"
-  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.56.0-rc.4.tgz#55286cf338c968a5ec4be6cac95095d1d59ac5b2"
+react-native@0.56.0-rc.5:
+  version "0.56.0-rc.5"
+  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.56.0-rc.5.tgz#f1ac9b476d9cea801712e46c8a3e970dc0d5ac87"
   dependencies:
     absolute-path "^0.0.0"
     art "^0.10.0"
